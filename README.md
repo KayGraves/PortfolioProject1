@@ -57,3 +57,7 @@ Before running the application, ensure you have the following installed:
 4. Open a web browser and go to `http://localhost:5000` to access the dashboard.
 
 5. Click on the "Login" button to authenticate with Spotify and view your recommendations.
+![RecSongs](WelcomePage.jpg)
+![RecSongs](RecSongs.jpg)
+![RecSongs](RecSongs2.jpg)
+
